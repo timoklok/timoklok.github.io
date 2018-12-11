@@ -1,9 +1,33 @@
-- name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+- name: Media Design and Communication
+  dates: 2007 - 2009
+  qualification: Master of Design @ Piet Zwart Institute, Willem de Kooning Academie, HRO Rotterdam
+  quote:
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    The Piet Zwart Instute was an eye-opener: Taking control of your own production process by taking a deep dive into code and developing an understanding of the digital landscape in a historic, artistic and theoretic sense. The course focussed heavily on the importance of the open-source community. Got some attention when this materialized in a browser plugin linking The Pirate Bay to Amazon.com (one party wasn't happy).
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    The two years resulted in a interactive installation that investigated the possibility of database-driven narration. Okay, it was actually a video-piece that created and endless James Bond movie mashup, ask me about it sometimes...
+
+- name: Image- and Media Technology
+  dates: 2002 - 2006
+  qualification: Master of Design @ Hogeschool van de Kunsten Utrecht, Hilversum
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    4 year course in animation and motion graphic design, in which I often collaborated in multidisciplinary AV-projects and got to work for real clients such as the VARA, Crossing Border Festival and Peter Greenaway. Graduated with a video installation combined with a research into the (artistic) theory of the sublime in relation to video-art.
+
+- name: Mediatechnology
+  dates: 2001 - 2002
+  qualification: HBO (propedeuse) @ Hogeschool van Utrecht, Amersfoort
+
+- name: Coenecoop College, Waddinxveen
+  dates: 1995 - 2001
+  qualification: VWO
+
+
+- name: Agile Project Management Foundation
+  dates: 2017
+  qualification:
+
+- name: Post-HBO, Didactiek voor HBO Docenten HRO Rotterdam
+  dates: 2013
+  qualification:
+  description: | # this will include new lines to allow paragraphs
