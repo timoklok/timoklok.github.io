@@ -26,7 +26,17 @@ about_profile_image: images/profile-tk.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Timo and I'm a front-end developer and allround problemsolver concerning all things digital. As well as developing sites and applications I also have experience in UX, motion graphics, print, VFX and art-education. I have worked on various commercial and non-commercial projects for a very divers range of clients.
 
-  I am currently most skilled in: <mark>HTML / CSS / JS</mark> and <mark>awefull puns</mark> but always looking to develop.
+  I am currently most skilled in: **HTML / CSS / JS** and **bad puns** but always looking to develop.
+
+  | Frontend skillset | Experience with | |
+  |-------|--------|---------|
+  |HTML5|Git / Subversion|Agile / Scrum|
+  |SCSS|Python|Final Cut Pro|
+  |JS / ES6|PHP (Wordpress / Silverstripe)|D3.js
+  |Node / NPM /Express|Bash|Cinema 4D|
+  |React & React Native|Jenkins|Unity|
+  |Angular 1.0|Adobe Creative Suite|
+  |GSAP|Sketch|
 
 # Projects Section
 projects_title: (side-)Projects
@@ -50,12 +60,13 @@ more_content: | # this will include new lines to allow paragraphs
   AFK you can find me:
   - climbing the highest peaks on my bike
   - playing bass in the studio or on stage
+  - petting my cat
 
 # Footer
 footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: timoklok/modern-resume-theme
 
 sass:
   sass_dir: _sass
