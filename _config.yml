@@ -9,7 +9,7 @@ email: mail@timoklok.nl
 website: www.timoklok.nl
 
 # Social links
-twitter_username: timobile
+#twitter_username: timobile
 # github_username:  timoklok
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -31,11 +31,11 @@ about_content: | # this will include new lines to allow paragraphs
   | Frontend skillset | Experience with | |
   |-------|--------|---------|
   |HTML5|Git / Subversion|Agile / Scrum|
-  |SCSS|Python|Final Cut Pro|
+  |SCSS|Python|Google Design Sprints|
   |JS / ES6|PHP (Wordpress / Silverstripe)|D3.js
   |Node / NPM /Express|Bash|Cinema 4D|
   |React & React Native|Jenkins|Unity|
-  |Angular 1.0|Adobe Creative Suite|
+  |Angular 1.0|Adobe Creative Suite|Final Cut Pro|
   |GSAP|Sketch|
 
 # Projects Section
