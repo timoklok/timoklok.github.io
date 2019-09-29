@@ -58,9 +58,9 @@ education_title: Education
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   AFK you can find me:
-  - climbing the highest peaks on my bike
-  - playing bass in the studio or on stage
-  - petting my cat
+  - [climbing the highest peaks on my bike](https://www.instagram.com/p/BSmMGEajdKE/)
+  - [playing bass in the studio or on stage](https://www.instagram.com/p/85lvKNm0Uz/)
+  - [petting my cat] (https://www.instagram.com/p/BUmybQrD0qN/)
 
 # Footer
 footer_show_references: false
