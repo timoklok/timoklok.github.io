@@ -1,6 +1,6 @@
 .footer {
-  background-color: $dark-grey;
-  color: $white-color;
+  color: $dark-grey;
+  background-color: $white-color;
   padding: 4.8rem 0;
 
   @include respond(phone) {

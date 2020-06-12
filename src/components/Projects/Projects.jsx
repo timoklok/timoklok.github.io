@@ -28,7 +28,13 @@ const Projects = () => {
         <div className="project-wrapper">
           <Title title="Projects" />
           {projects.map((project,index) => {
-            const { title, info, info2, url, repo, img } = project;
+            const { title, info, info2, url, urlTitle, repo, img, tags } = project;
+
+            const tagList = []
+            for (const [index, value] of tags.entries()) {
+              tagList.push(<span className="project-wrapper__tag" key={index}>#{value}</span>)
+            }
+
 
             return (
               <Row key={index}>
@@ -49,14 +55,16 @@ const Projects = () => {
                         </p>
                         <p className="mb-4">{info2 || ''}</p>
                       </div>
-                      <a
+
+                      {url && ( <a
                         target="_blank"
                         rel="noopener noreferrer"
                         className="cta-btn cta-btn--hero"
                         href={url || '#!'}
                       >
-                        See Live
+                        {urlTitle || 'See Live'}
                       </a>
+                      )}
 
                       {repo && (
                         <a
@@ -68,6 +76,11 @@ const Projects = () => {
                           Source Code
                         </a>
                       )}
+
+                      <div className="project-wrapper__tags">
+                        {tagList}
+                      </div>
+
                     </div>
                   </Fade>
                 </Col>
