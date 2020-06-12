@@ -20,8 +20,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile-tk.jpg',
-  paragraphOne: 'Front-end developer with a background in (motion-)design, over a decade of work experience and a pasison for purpose-driven projects and accessibility.',
-  paragraphTwo: 'Besides my technical track-record, I have experience in mentoring, product ownership, facilitating hackathons & Google design sprints. I enjoy solving problems, enabling others to do so, and generally discussing tech from a user\'s perspective.',
+  paragraphOne: 'Front-end developer with a background in (motion-) design, over a decade of work experience and a pasison for purpose-driven projects and accessibility.',
+  paragraphTwo: 'Besides my technical trackrecord, I have experience in mentoring, product ownership, facilitating hackathons & Google design sprints. I enjoy solving problems, enabling others to do so, and generally discussing tech from a user\'s perspective.',
   paragraphThree: 'AFK you\'ll probably find me on a <a target="_blank" href="https://www.instagram.com/p/Bh2EoL9n9rQ/">bike</a>, or with a <a target="_blank" href="https://www.facebook.com/riverdistrictmusic/photos/t.1281742892/1054020127971038">bassguitar</a> around my shoulders.',
   resume: '', // if no resume, the button will not show up
 };
