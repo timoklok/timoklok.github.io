@@ -1,0 +1,46 @@
+- company: VPRO
+  link: vpro.nl
+  job_title: Frontend Developer
+  dates: Januari 2014 - now
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    The VPRO is the most foreward thinking public broadcaster of The Netherlands, and I am very proud to be part of the Innovation and Digital Media team. As a frontender I get to develop and maintain various platforms such as [VPRO.nl](https://www.vpro.nl) and [3voor12](https://www.3voor12.nl). Besides, we produce one-off projects such as 14-18, [Door het Hart van China](https://china.op.vpro.nl/), or [Onzichtbaar Nederland](https://waarisdit.vpro.nl/) and develop apps for specific programs such as [Trees](https://itunes.apple.com/nl/app/trees-luister-en-reageer/id1328390003).
+
+    I'm also currently the product owner for 3voor12, facilitate hackathons, and participate in Google Design Sprints.
+
+- company: Restruct, sites & apps
+  link:
+  job_title: Co-founder
+  dates: 2010 - 2014
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    At Restruct we conceptualized, designed and developed online solutions, all from a personal approach. As a small company of three designers/programmers, we specialized in user-friendly projects and processes. Within Restruct, I focussed mainly on frontend-development but also contributed to (UX-)design, concept-development and customer-relations.
+
+    Clients included: [Rijksdienst voor Cultureel Erfgoed](http://kennisvoorcollecties.nl/), Douwe Egberts, [Asko/Shoenberg Ensemble](https://www.askoschoenberg.nl), Willem de Kooning Academie, RET Rotterdam, HTM Den Haag, Spark Design, [Pauluskerk Rotterdam](https://www.pauluskerkrotterdam.nl/), Gemeente Maassluis, CBRE/Rietmeijer
+
+- company: Piet Zwart Institute
+  job_title: Tutor
+  dates: 2009 - 2014
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    As a jack-of-all-trades I supported the Media Design & Communication (@ Piet Zwart Instituut, Willem de Kooning Academie, Hogeschool Rotterdam) department in various ways. I was a tutor first and foremost, supporting students in their projects, both technically and conceptually. Besides tutoring, I was repsonsible for the design and development of promotion-material, setting up expositions and various supporting tasks such as managing the student archive and the recording/documentation of live events.
+
+- company: Timo Klok
+  link: timoklok.nl
+  job_title: Freelance Media Designer
+  dates: 2005 - 2010
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    As a freelance designer, I had the opportunity to work on a wide range of projects. From web-development to motion graphics and from title design, grading to DVD-authoring, I became "the guy you called" when you needed a digital solution.
+
+    Clients included: NIKE, VARA/HumorTV, Eddy Terstal, Wim Wenders, Habbekrats Reclame, Achtung, NCRV, KPN, 178 aardige ontwerpers, ON and others
+
+- company: Side projects
+  description: | # this will include new lines to allow paragraphs
+    **[Kan ik een korte broek aan?](http://www.twitter.com/kortebroek)** - Twitterbot / website / app
+
+    **Wielerplatform Utrecht** - various graphic design promotion material
+
+    **Fietsclub Ledig Erf** - website, various graphic design promotion material
+
+    **Brewpub De Kromme Haring** - [website](http://www.dekrommeharing.nl), various graphic design promotion material

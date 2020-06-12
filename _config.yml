@@ -1,0 +1,76 @@
+# Site
+# repository: sproogen/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Timo Klok
+title: Frontend Developer & Digital Problem Solver
+email: mail@timoklok.nl
+website: www.timoklok.nl
+
+# Social links
+#twitter_username: timobile
+# github_username:  timoklok
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: timoklok
+linkedin_username: timoklok
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+about_title:
+about_profile_image: images/profile-tk.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Timo and I'm a front-end developer and allround problemsolver concerning all things digital. As well as developing sites and applications I also have experience in UX, motion graphics, print, VFX and art-education. I have worked on various commercial and non-commercial projects for a very divers range of clients.
+
+  I am currently most skilled in: **HTML / CSS / JS** and **bad puns** but always looking to develop.
+
+  | Frontend skillset | Experience with | |
+  |-------|--------|---------|
+  |HTML5|Git / Subversion|Agile / Scrum|
+  |SCSS|Python|Google Design Sprints|
+  |JS / ES6|PHP (Wordpress / Silverstripe)|D3.js
+  |Node / NPM /Express|Bash|Cinema 4D|
+  |React & React Native|Jenkins|Unity|
+  |Angular 1.0|Adobe Creative Suite|Final Cut Pro|
+  |GSAP|Sketch|
+
+# Projects Section
+projects_title: (side-)Projects
+
+# Experience Section
+experience_title: Experience
+
+# Education Section
+education_title: Education
+
+# Projects Section
+#courses_title: (side-)Projects
+
+# Experience Section
+#skills_title: Experience
+
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  AFK you can find me:
+  - [climbing the highest peaks on my bike](https://www.instagram.com/p/BSmMGEajdKE/)
+  - [playing bass in the studio or on stage](https://www.instagram.com/p/85lvKNm0Uz/)
+  - [petting my cat] (https://www.instagram.com/p/BUmybQrD0qN/)
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: timoklok/modern-resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
