@@ -2,10 +2,11 @@ import React, { useContext, useState, useEffect } from 'react';
 import { Container } from 'react-bootstrap';
 import Fade from 'react-reveal/Fade';
 import PortfolioContext from '../../context/context';
+import TypeIt from 'typeit-react';
 
 const Header = () => {
   const { hero } = useContext(PortfolioContext);
-  const { title, name, subtitle, cta } = hero;
+  const { title, name, subtitle1, subtitle2, subtitle3, cta } = hero;
 
   const [isDesktop, setIsDesktop] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
@@ -28,7 +29,14 @@ const Header = () => {
             {title || 'Hi, my name is'}{' '}
             <span className="text-color-main">{name || 'Your Name'}</span>
           </h1>
-          <h2 className="hero-subtitle">{subtitle || "I'm the Unknown Developer."}</h2>
+          <h2 className="hero-subtitle">{subtitle1}<TypeIt options={{
+            strings: ['a developer', 'a cat lover', 'a problem solver', 'an cycling fanatic', 'a media designer'],
+            speed: 150,
+            breakLines: false,
+            nextStringDelay: [400, 1000],
+            startDelete: true,
+            loop: true, element:'span'
+          }} element={"span"}>{subtitle2}</TypeIt>{subtitle3 || "I'm the Unknown Developer."}</h2>
         </Fade>
         <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
           {/* <p className="hero-cta">

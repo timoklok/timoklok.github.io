@@ -53,6 +53,9 @@
     margin-bottom: 3.2rem;
     text-align: left;
 
+    div {
+      display: inline;
+    }
     @include respond(tab-land) {
       font-size: 3.5rem;
     }
