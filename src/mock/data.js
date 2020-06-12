@@ -14,7 +14,7 @@ export const heroData = {
   subtitle1: 'I\'m ',
   subtitle2: 'front-end developer',
   subtitle3: ', based in Utrecht, NL',
-  cta: 'short summary',
+  cta: 'about me',
 };
 
 // ABOUT DATA
@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphOne: 'Front-end developer with a background in (motion-) design, over a decade of work experience and a pasison for purpose-driven projects and accessibility.',
   paragraphTwo: 'Besides my technical trackrecord, I have experience in mentoring, product ownership, facilitating hackathons & Google design sprints. I enjoy solving problems, enabling others to do so, and generally discussing tech from a user\'s perspective.',
   paragraphThree: 'AFK you\'ll probably find me on a <a target="_blank" href="https://www.instagram.com/p/Bh2EoL9n9rQ/">bike</a>, or with a <a target="_blank" href="https://www.facebook.com/riverdistrictmusic/photos/t.1281742892/1054020127971038">bassguitar</a> around my shoulders.',
-  resume: '', // if no resume, the button will not show up
+  resume: 'https://timoklok.github.io/', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
