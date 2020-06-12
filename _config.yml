@@ -28,15 +28,17 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am currently most skilled in: **HTML / CSS / JS** and **bad puns** but always looking to develop.
 
-  | Frontend skillset | Experience with | |
+
+  | Experience with | Dipped toes into | Would like to learn |
   |-------|--------|---------|
-  |HTML5|Git / Subversion|Agile / Scrum|
-  |SCSS|Python|Google Design Sprints|
-  |JS / ES6|PHP (Wordpress / Silverstripe)|D3.js
-  |Node / NPM /Express|Bash|Cinema 4D|
-  |React & React Native|Jenkins|Unity|
-  |Angular 1.0|Adobe Creative Suite|Final Cut Pro|
-  |GSAP|Sketch|
+  |HTML5, CSS(less/sass), JS/ES6 |Python, PHP (Wordpress / Silverstripe)|Tailwind CSS|
+  |Git, Subversion|D3.js, Mocha, Karma|Sanity.io, Netlify|
+  |Agile, Scrum| Gatsby, Jekyll, |Jest|
+  |Node, NPM, Express, GSAP|Jenkins||
+  |Google Design Sprints|Service Design||
+  |React & React Native, AngularJS|Unity||
+  |Adobe Creative Suite, Final Cut Pro, Cinema 4D, Sketch|Storybook||
+
 
 # Projects Section
 projects_title: (side-)Projects
@@ -60,7 +62,7 @@ more_content: | # this will include new lines to allow paragraphs
   AFK you can find me:
   - [climbing the highest peaks on my bike](https://www.instagram.com/p/BSmMGEajdKE/)
   - [playing bass in the studio or on stage](https://www.instagram.com/p/85lvKNm0Uz/)
-  - [petting my cat] (https://www.instagram.com/p/BUmybQrD0qN/)
+  - [petting my cat](https://www.instagram.com/p/BUmybQrD0qN/)
 
 # Footer
 footer_show_references: false

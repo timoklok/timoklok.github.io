@@ -1,12 +1,26 @@
+- company: Eagerly Internet
+  link: eagerly.nl
+  job_title: Frontend Developer
+  dates: Januari 2020 - now
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    Eagerly Internet advices in online communication and produces websites from design, to development and hosting. As a  developer, I’m mostly involved with the creation and optimalisation of several cultural platforms (venues and festivals) end am currently developing a new narrowcasting platform (using React).
+
+    * Front-end development
+    * Setting out WCAG Accessibility guidelines
+
 - company: VPRO
   link: vpro.nl
   job_title: Frontend Developer
-  dates: Januari 2014 - now
+  dates: Januari 2014 - December 2019
   quote:
   description: | # this will include new lines to allow paragraphs
-    The VPRO is the most foreward thinking public broadcaster of The Netherlands, and I am very proud to be part of the Innovation and Digital Media team. As a frontender I get to develop and maintain various platforms such as [VPRO.nl](https://www.vpro.nl) and [3voor12](https://www.3voor12.nl). Besides, we produce one-off projects such as 14-18, [Door het Hart van China](https://china.op.vpro.nl/), or [Onzichtbaar Nederland](https://waarisdit.vpro.nl/) and develop apps for specific programs such as [Trees](https://itunes.apple.com/nl/app/trees-luister-en-reageer/id1328390003).
+    The VPRO is the most foreward thinking public broadcaster of The Netherlands, and I am very proud to have been part of the Innovation and Digital Media team. As a frontender I got to develop and maintain various platforms such as [VPRO.nl](https://www.vpro.nl) and [3voor12](https://www.3voor12.nl). Besides, we produced one-off projects such as 14-18, [Door het Hart van China](https://china.op.vpro.nl/), or [Onzichtbaar Nederland](https://waarisdit.vpro.nl/) and developed apps for specific programs such as [Trees](https://itunes.apple.com/nl/app/trees-luister-en-reageer/id1328390003).
 
-    I'm also currently the product owner for 3voor12, facilitate hackathons, and participate in Google Design Sprints.
+    * Front-end development
+    * Product owner for [3voor12](http://3voor12.vpro.nl)
+    * Facilitating hackathons and Google Design Sprints
+
 
 - company: Restruct, sites & apps
   link:
@@ -14,7 +28,12 @@
   dates: 2010 - 2014
   quote:
   description: | # this will include new lines to allow paragraphs
-    At Restruct we conceptualized, designed and developed online solutions, all from a personal approach. As a small company of three designers/programmers, we specialized in user-friendly projects and processes. Within Restruct, I focussed mainly on frontend-development but also contributed to (UX-)design, concept-development and customer-relations.
+    At Restruct we conceptualized, designed and developed online solutions, all from a personal approach. As a small company of three designers/programmers, we specialized in user-friendly projects and processes.
+
+    * front-end development
+    * (UX-)design
+    * concept-development
+    * customer-relations.
 
     Clients included: [Rijksdienst voor Cultureel Erfgoed](http://kennisvoorcollecties.nl/), Douwe Egberts, [Asko/Shoenberg Ensemble](https://www.askoschoenberg.nl), Willem de Kooning Academie, RET Rotterdam, HTM Den Haag, Spark Design, [Pauluskerk Rotterdam](https://www.pauluskerkrotterdam.nl/), Gemeente Maassluis, CBRE/Rietmeijer
 
@@ -23,7 +42,13 @@
   dates: 2009 - 2014
   quote:
   description: | # this will include new lines to allow paragraphs
-    As a jack-of-all-trades I supported the Media Design & Communication (@ Piet Zwart Instituut, Willem de Kooning Academie, Hogeschool Rotterdam) department in various ways. I was a tutor first and foremost, supporting students in their projects, both technically and conceptually. Besides tutoring, I was repsonsible for the design and development of promotion-material, setting up expositions and various supporting tasks such as managing the student archive and the recording/documentation of live events.
+    As a jack-of-all-trades I supported the Media Design & Communication (@ Piet Zwart Instituut, Willem de Kooning Academie, Hogeschool Rotterdam) department in various ways. I was a tutor first and foremost, supporting students in their projects, both technically and conceptually.
+
+    * Personal tutor
+    * Design and development of promotion-material
+    * Producing expositions
+    * Managing the student archive
+    * Recording/documentation of live events.
 
 - company: Timo Klok
   link: timoklok.nl
@@ -33,14 +58,28 @@
   description: | # this will include new lines to allow paragraphs
     As a freelance designer, I had the opportunity to work on a wide range of projects. From web-development to motion graphics and from title design, grading to DVD-authoring, I became "the guy you called" when you needed a digital solution.
 
+    * Motion graphics
+    * Web development
+    * Visual effects
+
     Clients included: NIKE, VARA/HumorTV, Eddy Terstal, Wim Wenders, Habbekrats Reclame, Achtung, NCRV, KPN, 178 aardige ontwerpers, ON and others
 
-- company: Side projects
+- company: Selection of side projects
   description: | # this will include new lines to allow paragraphs
-    **[Kan ik een korte broek aan?](http://www.twitter.com/kortebroek)** - Twitterbot / website / app
+    **Kan ik een korte broek aan**
+    [Twitterbot](http://www.twitter.com/kortebroek), [website](http://www.kanikeenkortebroekaan.nl), app
 
-    **Wielerplatform Utrecht** - various graphic design promotion material
+    **Riverdistrict**
+    Band [website](http://riverdistrict.breun.nl) Various music videos
 
-    **Fietsclub Ledig Erf** - website, various graphic design promotion material
+    **Moonwatch**
+    Band [website](http://moonwatch.band)
 
-    **Brewpub De Kromme Haring** - [website](http://www.dekrommeharing.nl), various graphic design promotion material
+    **Wielerplatform Utrecht**
+    various graphic design promotion material
+
+    **Fietsclub Ledig Erf**
+    website, various graphic design promotion material
+
+    **Brewpub De Kromme Haring**
+    website, various graphic design promotion material
