@@ -1,10 +1,10 @@
 - company: Eagerly Internet
   link: eagerly.nl
-  job_title: Frontend Developer
+  job_title: Medior frontend Developer
   dates: Januari 2020 - now
   quote:
   description: | # this will include new lines to allow paragraphs
-    Eagerly Internet advices in online communication and produces websites from design, to development and hosting. As a  developer, I’m mostly involved with the creation and optimalisation of several cultural platforms (venues and festivals) end am currently developing a new narrowcasting platform (using React).
+    Eagerly Internet advises in online communication and produces websites from design, to development and hosting. As a developer, I’m mostly involved with the creation and optimalisation of several cultural platforms (venues and festivals) and am currently developing a new narrowcasting platform (using React).
 
     * Front-end development
     * Setting out WCAG Accessibility guidelines
@@ -44,7 +44,7 @@
   description: | # this will include new lines to allow paragraphs
     As a jack-of-all-trades I supported the Media Design & Communication (@ Piet Zwart Instituut, Willem de Kooning Academie, Hogeschool Rotterdam) department in various ways. I was a tutor first and foremost, supporting students in their projects, both technically and conceptually.
 
-    * Personal tutor
+    * Personal tutoring
     * Design and development of promotion-material
     * Producing expositions
     * Managing the student archive
@@ -67,18 +67,23 @@
 - company: Selection of side projects
   description: | # this will include new lines to allow paragraphs
     **Kan ik een korte broek aan**
+
     [Twitterbot](http://www.twitter.com/kortebroek), [website](http://www.kanikeenkortebroekaan.nl), app
 
     **Riverdistrict**
+
     Band [website](http://riverdistrict.breun.nl) Various music videos
 
     **Moonwatch**
+
     Band [website](http://moonwatch.band)
 
     **Wielerplatform Utrecht**
+
     various graphic design promotion material
 
     **Fietsclub Ledig Erf**
+
     website, various graphic design promotion material
 
     **Brewpub De Kromme Haring**
