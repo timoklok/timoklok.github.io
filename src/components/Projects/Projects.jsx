@@ -5,6 +5,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import PortfolioContext from '../../context/context';
 import Title from '../Title/Title';
 import ProjectImg from '../Image/ProjectImg';
+import SlideShow from '../Image/Slideshow';
 
 const Projects = () => {
   const { projects } = useContext(PortfolioContext);
@@ -93,12 +94,12 @@ const Projects = () => {
                     distance="30px"
                   >
                     <div className="project-wrapper__image">
-                      <a
+                      {/* <a
                         href={url || '#!'}
                         target="_blank"
                         aria-label="Project Link"
                         rel="noopener noreferrer"
-                      >
+                      > */}
                         <Tilt
                           options={{
                             reverse: false,
@@ -114,9 +115,10 @@ const Projects = () => {
                         >
                           <div data-tilt className="thumbnail rounded">
                             <ProjectImg alt={title} filename={img} />
+                            {/* <SlideShow project="vpro" /> */}
                           </div>
                         </Tilt>
-                      </a>
+                      {/* </a> */}
                     </div>
                   </Fade>
                 </Col>

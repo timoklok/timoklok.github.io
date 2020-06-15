@@ -2,9 +2,9 @@ import uuidv1 from 'uuid/v1';
 
 // HEAD DATA
 export const headData = {
-  title: 'Timo Klok | Developer', // e.g: 'Name | Developer'
+  title: 'Timo Klok | Front-end developer', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: ' I\'m a developer based in Utrecht (nl). ', // e.g: Welcome to my website
+  description: 'Timo Klok. Fron-end developer and media designer from Utrecht, NL', // e.g: Welcome to my website
 };
 
 // HERO DATA
@@ -20,7 +20,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile-tk.jpg',
-  paragraphOne: 'Front-end developer with a background in (motion-) design, over a decade of work experience and a pasison for purpose-driven projects and accessibility.',
+  paragraphOne: 'Front-end developer with a background in (motion-) design, over a decade of work experience and a passion for purpose-driven projects and accessibility.',
   paragraphTwo: 'Besides my technical trackrecord, I have experience in mentoring, product ownership, facilitating hackathons & Google design sprints. I enjoy solving problems, enabling others to do so, and generally discussing tech from a user\'s perspective.',
   paragraphThree: 'AFK you\'ll probably find me on a <a target="_blank" href="https://www.instagram.com/p/Bh2EoL9n9rQ/">bike</a>, or with a <a target="_blank" href="https://www.facebook.com/riverdistrictmusic/photos/t.1281742892/1054020127971038">bassguitar</a> around my shoulders.',
   resume: 'https://timoklok.github.io/', // if no resume, the button will not show up
@@ -32,10 +32,11 @@ export const projectsData = [
     id: uuidv1(),
     img: 'vpro1.jpg',
     title: 'VPRO ',
-    info: 'For several years, I was part of the digital team at Netherlands\' most progressive broadcaster. We continuously maintained & improved the main VPRO platform as well as developing program specific one-off sites and apps',
+    info: 'For several years, I was part of the digital team at Netherlands\' most progressive broadcaster. We continuously maintained & improved the main VPRO platform as well as developing program specific one-off sites and apps.',
     info2: '',
     tags: ['front-end', 'React', 'ES6', 'Node/NPM'],
-    url: 'https://www.vpro.nl'
+    url: 'https://www.vpro.nl',
+    urlTitle: 'Visit',
     //repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
@@ -45,16 +46,16 @@ export const projectsData = [
     info: 'Twitterbot and website that answers arguable one of the most important questions in life, "Can I wear shorts today?" Serves 22k tweeps every day.',
     info2: '',
     url: 'https://twitter.com/kortebroek',
-    urlTitle: 'Twitter',
-    tags: ['twitter API', 'React', 'node']
+    urlTitle: 'View on Twitter',
+    tags: [ 'hobby project', 'twitter-API', 'React', 'node']
     //repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
     img: 'poms1.jpg',
     title: 'POMS ',
-    info: ' POMS (Publieke Omroep Media Service) is the meta-data application for all public broadcasters in the Netherlands, for which developed the GUI using AngularJS',
-    info2: 'Image by designer Niels Pikker',
+    info: ' POMS (Publieke Omroep Media Service) is the meta-data application for all public broadcasters in the Netherlands, for which I developed the GUI using AngularJS.',
+    info2: 'Developed at VPRO, Image by designer Niels Pikker',
     tags: ['front-end', 'angularJS']
     //url: ''
     //repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
@@ -66,7 +67,7 @@ export const projectsData = [
     info: 'Together with designer Jasper Jongeling, I developed the website for my indie band Riverdistrict. Proud to have received a bronze medal in the European Design Awards for it.',
     info2: '',
     url: 'https://riverdistrict.breun.nl',
-    urlTitle: 'dive in',
+    urlTitle: 'Dive in',
     tags: ['front-end', 'hobby project', 'music']
     //repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
@@ -74,21 +75,44 @@ export const projectsData = [
     id: uuidv1(),
     img: 'hackathon1.jpg',
     title: 'Design Sprints & Hackathons',
-    info: 'I don\'t only enjoy solving problems through developing, but also by facilitating others to do so. I have experience with facilitating design sprints and hackathons. ',
+    info: 'I don\'t only enjoy solving problems through developing, but also by facilitating others to do so. I have experience with facilitating Google design sprints and hackathons. Reach out if you would like to organize a workshop.',
     info2: '',
-    url: '',
-    urlTitle: 'look & listen',
+    url: 'mailto:mail@timoklok.nl',
+    urlTitle: 'Get in touch',
     tags: []
+    //repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  },
+
+  {
+    id: uuidv1(),
+    img: 'kennis1.png',
+    title: 'Rijksdienst voor Cultureel Erfgoed',
+    info: 'Website highlighting years of research done by the Cultural Heritage Agency of the Netherlands',
+    info2: 'Developed before the responsive age 😬',
+    url: 'http://kennisvoorcollecties.nl/',
+    urlTitle: 'View',
+    tags: ['front-end']
+    //repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
+    img: 'gids1.jpg',
+    title: 'VPRO Gids',
+    info: 'The paper-based VPRO Gids is moving towards online. To guide this transition, we built a website where you could navigate the paper edition, read online and subscribe to their services.',
+    info2: 'Developed at VPRO',
+    url: 'https://www.vprogids.nl',
+    urlTitle: 'More info',
+    tags: ['front-end']
     //repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
     img: 'spieker1.jpg',
     title: 'Hotel Spieker: a interactive smart speaker whodunnit',
-    info: 'Hotel Spieker was an investigation in the narrative & game possibilities offered by smart speakers. This whodunnit-game was specifically designed to be played with a group.',
-    info2: '(developed at VPRO)',
+    info: 'Hotel Spieker is an investigation in the narrative & game possibilities offered by smart speakers. This whodunnit-game was specifically designed to be played with a group.',
+    info2: 'Developed at VPRO',
     url: 'https://www.vpro.nl/medialab/projecten/overzicht/hotel-spieker.html',
-    urlTitle: 'more info',
+    urlTitle: 'More info',
     tags: ['JS', 'Google Dialogflow']
     //repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
@@ -99,8 +123,8 @@ export const projectsData = [
     info: 'Interactive fictional map for VPRO\'s podcast Ongesigneerd, that highlights (overlooked) design objects found in everyday urban life.',
     info2: 'Illustrations by Sylvain Tegroeg.',
     url: 'https://files.vpro.nl/ongesigneerd/',
-    urlTitle: 'look & listen',
-    tags: ['front-end', 'leaflet']
+    urlTitle: 'Look & listen',
+    tags: ['front-end', 'leaflet', 'js']
     //repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
 
@@ -111,8 +135,19 @@ export const projectsData = [
     info: 'As a cycling friendly Brewpub, De Kromme Haring commissioned me to design this Shitty Beer cap. Now commonly seen in the Utrecht region..  ',
     info2: '',
     url: 'https://www.bellocyclist.co.uk/product/de-kromme-haring-x-bello-cyclist-cycling-cap/?v=796834e7a283',
-    urlTitle: 'order',
-    tags: ['hobby project']
+    urlTitle: 'Order a cap',
+    tags: ['hobby project', 'design']
+    //repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
+    img: 'mijnberg.jpg',
+    title: '"Mijn Berg" magazine',
+    info: 'Design for the yearly magazine of Utrecht\'s cycling club Ledig Erf. Al collection of stories on the favourite climbs of the members',
+    info2: '',
+    url: '',
+    urlTitle: '',
+    tags: ['hobby project', 'design']
     //repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
 ];
