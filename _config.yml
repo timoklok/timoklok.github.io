@@ -35,9 +35,10 @@ about_content: | # this will include new lines to allow paragraphs
   |Git, Subversion|D3.js, Mocha, Karma|Sanity.io, Netlify|
   |Agile, Scrum| Gatsby, Jekyll, |Jest|
   |Node, NPM, Express, GSAP|Jenkins||
-  |Google Design Sprints|Service Design||
-  |React & React Native, AngularJS|Unity||
-  |Adobe Creative Suite, Final Cut Pro, Cinema 4D, Sketch|Storybook||
+  |Gulp, Webpack|Service Design||
+  |Google Design Sprints|Unity||
+  |React & React Native, AngularJS|Storybook||
+  |Adobe Creative Suite, Final Cut Pro, Cinema 4D, Sketch|||
 
 
 # Projects Section
